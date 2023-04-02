@@ -1,0 +1,2 @@
+ClientID = 995347371213-cpb4o5uit4fku7dnnlvkrsmdk6m9mdgt.apps.googleusercontent.com
+Client Secret = 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
