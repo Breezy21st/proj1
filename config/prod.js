@@ -5,3 +5,4 @@ module.exports = {
     mognoURI: process.env.MONGO_URI,
     cookieKey: process.eventNames.COOKIE_KEY
 }
+
